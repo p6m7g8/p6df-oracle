@@ -14,9 +14,11 @@ p6df::modules::oracle::version() { echo "0.0.1" }
 #
 #>
 ######################################################################
-p6df::modules::oracle::deps() { 
-
-	ModuleDeps=(oracle/docker-images) 
+p6df::modules::oracle::deps() {
+	ModuleDeps=(
+    p6m7g8/p6df-docker
+    oracle/docker-images
+  )
 }
 
 ######################################################################
