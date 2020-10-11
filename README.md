@@ -6,5 +6,4 @@
 - p6df::modules::oracle::home::symlink()
 - p6df::modules::oracle::init()
 - p6df::modules::oracle::run()
-- p6df::modules::oracle::version()
 
