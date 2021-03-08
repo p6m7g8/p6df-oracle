@@ -38,9 +38,11 @@
 
 - [Change Log](CHANGELOG.md)
 
-### Usage
+## Usage
 
-#### init.zsh:
+### p6df-oracle:
+
+#### p6df-oracle/init.zsh:
 
 - p6_sqlplus_as_system()
 - p6df::modules::oracle::build()
