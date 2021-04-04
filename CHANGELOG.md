@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/p6m7g8/p6df-oracle/compare/v2.1.0...v2.1.1) (2021-04-04)
+
+
+* **README:** updates generator ([#10](https://github.com/p6m7g8/p6df-oracle/issues/10)) ([95d70bc](https://github.com/p6m7g8/p6df-oracle/commit/95d70bcfc53b4a1634b68537592b227b89231afc))
+* Coc -> .github ([a0d73ea](https://github.com/p6m7g8/p6df-oracle/commit/a0d73eafd6dad7fa326f8813f3ee07be5bd31d34))
+
 ## [2.1.0](https://github.com/p6m7g8/p6df-oracle/compare/v2.0.0...v2.1.0) (2020-12-06)
 
 
